@@ -1,0 +1,9 @@
+lastUpgrade=00936
+proj.pluginVersion=0.9.36
+ios.ClientId=1021450996400-ahmmcmmd438lc63c90tss5uh4010n8n2.apps.googleusercontent.com
+ios.BundleId=com.funker530turnnburn
+proj.ConstantsClassName=GPGSIDs
+ios.ResourceData=%23define+CLIENT_ID+%40%221021450996400-ahmmcmmd438lc63c90tss5uh4010n8n2.apps.googleusercontent.com%22%0a%23define+BUNDLE_ID+%40%22com.funker530turnnburn%22%0a%23define+LEAD_TURN_N_BURN_HIGH_SCORES+%40%22CgkIsJXlmd0dEAIQAA%22
+and.ClientId=1021450996400-ahmmcmmd438lc63c90tss5uh4010n8n2.apps.googleusercontent.com
+proj.requireGPlus=false
+ios.SetupDone=true
